@@ -1,4 +1,4 @@
 # ActiveDirectory
-This repository is dedicared to Active Directory PS scripts
+This repository is dedicated to Active Directory PS scripts
 
-Version 2
+
